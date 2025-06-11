@@ -2,7 +2,7 @@
 
 I’m an AI Research Scientist with over 15 years of experience in industry and academia. I leverage my background in physics, biology, and computational methods to develop AI-driven solutions for complex biological challenges. My expertise spans statistical modeling, multi-omics analysis, and machine learning applications in human health, longevity, and drug discovery.
 
-My personal mission is to enable healthy lifespans of up to 200 years through breakthroughs in Bio-ML—contributing innovations that benefit all of humanity. Outside the work, I’m a lifelong swimmer and avid runner.
+My personal mission is to enable healthy lifespans of up to 200 years through breakthroughs in Bio-ML—contributing innovations that benefit all of humanity. Outside of work, I’m a lifelong swimmer and avid runner.
 
 🔭 **Currently working on:**
 - **SBX**: Nanopore-based single-molecule sequencing technology @ [Roche Sequencing Solutions](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html)
