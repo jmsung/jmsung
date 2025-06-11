@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-I’m an AI Research Scientist with over 15 years of experience in both industry and academia. I combine expertise in physics, biology, and computational methods to develop AI-driven solutions for complex biological challenges. I specialize in statistical modeling, multi-omics analysis, and machine learning applications in human health, longevity, and drug discovery.
+I’m an AI Research Scientist with over 15 years of experience in industry and academia. I leverage my background in physics, biology, and computational methods to develop AI-driven solutions for complex biological challenges. My expertise spans statistical modeling, multi-omics analysis, and machine learning applications in human health, longevity, and drug discovery.
 
-- 🔭 I’m currently working on
-  - [digital-pathology](https://github.com/jmsung/digital-pathology) for pancreadic cancer survival prediction
-  - [protein language model](x) for novel therapeutic development
-    
-- 📫 Please reach out to me for any questions or collaborations:
-  - [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/jongmin-sung/)
-  - [Blog](https://jmsung.github.io/)
+My personal mission is to enable healthy lifespans of up to 200 years through breakthroughs in Bio-ML—contributing innovations that benefit all of humanity. Outside the work, I’m a lifelong swimmer and avid runner.
+
+🔭 **Currently working on:**
+- **SBX**: Nanopore-based single-molecule sequencing technology @ [Roche Sequencing Solutions](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html)
+- **HFC**: Evaluating generative AI reasoning models and prompt engineering @ [Scale AI](https://hfc.scale.com/)
+- **Digital Pathology**: Pancreatic cancer survival prediction ([github.com/jmsung/digital-pathology](https://github.com/jmsung/digital-pathology))  
+- **Protein Language Model**: Novel therapeutic discovery (link coming soon)
+
+📫 **Get in touch:**
+- [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/jongmin-sung/)  
+- [Blog](https://jmsung.github.io/)
+
 <!--
 **jmsung/jmsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
