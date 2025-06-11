@@ -12,8 +12,7 @@ My personal mission is to enable healthy lifespans of up to 200 years through br
 
 📫 **Get in touch:**
 - [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/jongmin-sung/)  
-- [Blog](https://jmsung.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jongmin-sung/), [Blog](https://jmsung.github.io/)
 
 <!--
 **jmsung/jmsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
