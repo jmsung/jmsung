@@ -5,10 +5,11 @@ I’m an AI Research Scientist with over 15 years of experience in industry and 
 My personal mission is to enable healthy lifespans of up to 200 years through breakthroughs in Bio-ML—contributing innovations that benefit all of humanity. Outside of work, I’m a lifelong swimmer and avid runner.
 
 🔭 **Currently working on:**
-- **SBX**: Nanopore-based single-molecule sequencing technology @ [Roche Sequencing Solutions](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html)
-- **HFC**: Evaluating generative AI reasoning models and prompt engineering @ [Scale AI](https://hfc.scale.com/)
-- **Digital Pathology**: Pancreatic cancer survival prediction ([github.com/jmsung/digital-pathology](https://github.com/jmsung/digital-pathology))  
-- **Protein Language Model**: Novel therapeutic discovery (link coming soon)
+- [SBX](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html): Nanopore-based single-molecule sequencing technology @ Roche Sequencing Solutions
+- [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering @ Scale AI
+- [Digital Pathology](https://github.com/jmsung/digital-pathology): Pancreatic cancer survival prediction
+- [Protein Language Model]: Novel therapeutic discovery
+- [Bio-ML]: Various bio-ml projects
 
 📫 **Get in touch:**
 - [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)  
