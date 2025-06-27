@@ -10,7 +10,6 @@ My personal mission is to enable healthy lifespans of up to 200 years through br
 - [Digital Pathology](https://github.com/jmsung/digital-pathology): Pancreatic cancer survival prediction from whole-slide images (WSIs)
 - [Protein Language Model](xx): Novel therapeutic discovery
 - [Bio-ML](https://github.com/jmsung/bio-ml): Various Biology and ML projects
-- [Bio-ML-Papers](https://github.com/jmsung/bio-ml-papers): Collection of Bio-ML papers
 
 📫 **Get in touch:**
 - [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)  
