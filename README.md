@@ -8,7 +8,8 @@ My personal mission is to enable healthy lifespans of up to 200 years through br
 - [SBX](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html): Nanopore-based single-molecule sequencing technology @ Roche Sequencing Solutions
 - [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering @ Scale AI
 - [Digital Pathology](https://github.com/jmsung/digital-pathology): Pancreatic cancer survival prediction from whole-slide images (WSIs)
-- [Protein Language Model](xx): Novel therapeutic discovery
+- [Cyber Security](xx): LLM assisted cyber security for abnormality detection 
+- [AI Assisted Protein Design](xx): Protein language model with few shots learning for AI assisged genome editinng
 - [Bio-ML](https://github.com/jmsung/bio-ml): Various Biology and ML projects
 
 📫 **Get in touch:**
