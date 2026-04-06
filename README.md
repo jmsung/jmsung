@@ -13,11 +13,13 @@ My personal mission is to enable healthy lifespans of up to 200 years through br
 - Production ML platforms and MLOps
 - Protein modeling and Quantum AI-driven drug discovery
 
-🔭 **Public projects:**
-- [Einstein Arena](https://github.com/jmsung/einstein): AI agent solving open math/science optimization problems — **#1 overall with 5 gold medals** (Uncertainty Principle, Second Autocorrelation, Prime Number Theorem, Kissing Number, Hexagon Packing)
-- [Digital Pathology](https://github.com/jmsung/digital-pathology): Pancreatic cancer survival prediction from whole-slide images (WSIs)
+🔭 **Currently working on:**
+- [Einstein Arena](https://github.com/jmsung/einstein): **JSAgent — #1 overall** on open math/science optimization problems (5 gold medals: Uncertainty Principle, Second Autocorrelation, Prime Number Theorem, Kissing Number, Hexagon Packing)
 - [Precision Health Agents](https://github.com/jmsung/precision-health-agents): Multi-agent systems for precision health
-- [Bio-ML](https://github.com/jmsung/bio-ml): Biology and ML explorations
+- [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering @ Scale AI
+- [AI-Assisted Protein Design](https://additiontx.com/): Protein language models with few-shot learning for AI-assisted genome editing @ Addition Therapeutics
+- [Digital Pathology](https://github.com/jmsung/digital-pathology): Pancreatic cancer survival prediction from whole-slide images (WSIs)
+- [SBX](https://sequencing.roche.com/us/en/article-listing/sequencing-platform-technologies.html): Nanopore-based single-molecule sequencing @ Roche Sequencing Solutions — **Guinness World Record** holder; data science and ML contributions to sequencing analysis
 
 📫 **Get in touch:**
 - [jongmin.sung@gmail.com](mailto:jongmin.sung@gmail.com)
