@@ -4,7 +4,7 @@ I'm an AI Research Scientist and Systems Architect with 15+ years of experience 
 
 Currently Senior Knowledge Engineer at [Sailplane](https://sailplane.ai/), designing hierarchical AI agent planning systems for production-scale data center operations. I focus on translating frontier AI research into reliable, secure, real-world systems. I operate hands-on in startup environments, driving end-to-end system design, production ML infrastructure, and measurable impact.
 
-My personal mission is to enable healthy lifespans of up to 200 years through breakthroughs in Bio-ML. Outside of work, I'm a lifelong swimmer and avid runner.
+Outside of work, I'm a lifelong swimmer and avid runner.
 
 🎯 **Areas of focus:**
 - AI systems architecture
