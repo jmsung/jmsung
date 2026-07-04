@@ -14,6 +14,13 @@ Outside of work, I am a lifelong swimmer and avid runner.
 • [Precision Health Agents](https://github.com/jmsung/precision-health-agents): Multi agent systems for precision health  
 • [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering at Scale AI  
 
+🧩 **Side projects and advisory work:**
+
+• **Valley Innovation Partners**: Technical advisor advancing AI innovation in medical centers and hospitals  
+• **Nanostar Ventures**: Scout and technical advisor for early stage biotech startups  
+• **Stanford University School of Medicine**: Visiting scholar working on AI agent driven drug discovery for cardiovascular disease and cancer  
+• **VeriPress**: Advisor for an AI powered multi agent fact checking system  
+
 🧬 **Previously worked on:**
 
 • [Hierarchical AI Agents](https://sailplane.ai): Structured knowledge systems for hierarchical AI agents in real world production environments  
