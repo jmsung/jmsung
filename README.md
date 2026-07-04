@@ -2,7 +2,7 @@
 
 I am an AI System Architect and Bio AI Scientist with 15+ years of experience across biophysics, genomics, protein engineering, production ML, and biological data platforms.
 
-I have built next generation sequencing systems at Roche, AI guided protein engineering pipelines at Addition Therapeutics, frontier LLM reasoning evaluation workflows at Scale AI, and hierarchical AI agent systems at Sailplane.
+I have built next generation sequencing systems SBX at Roche, AI guided protein engineering pipelines at Addition Therapeutics, frontier LLM reasoning evaluation workflows at Scale AI, and hierarchical AI agent systems at Sailplane.
 
 My work focuses on Bio AI for drug discovery, protein design, genomics, precision health, biomedical foundation models, and agentic AI systems.
 
@@ -11,11 +11,11 @@ Outside of work, I am a lifelong swimmer and avid runner.
 🔭 **Currently working on:**
 
 • [Einstein Arena](https://github.com/jmsung/einstein): JSAgent, ranked #1 overall on open math and science optimization problems  
+• [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering at Scale AI  
 • AI agent driven drug discovery for cardiovascular disease and cancer  
 • AI powered multi agent fact checking system  
-• Technical advisor advancing AI innovation in medical centers and hospitals  
+• Advancing AI innovation in medical centers and hospitals  
 • [Precision Health Agents](https://github.com/jmsung/precision-health-agents): Multi agent systems for precision health  
-• [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering at Scale AI  
 
 🧬 **Previously worked on:**
 
@@ -29,8 +29,7 @@ Outside of work, I am a lifelong swimmer and avid runner.
 
 • PhD in Applied Physics from Stanford University  
 • Postdoctoral research at UCSF and Stanford School of Medicine  
-• Single molecule biophysics, motor proteins, super resolution microscopy, optical trapping, and statistical modeling  
-• NIH F32 Postdoctoral Fellow and Stanford Bio X Fellow  
+
 
 📫 **Get in touch:**
 
