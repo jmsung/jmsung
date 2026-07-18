@@ -10,6 +10,7 @@ Outside of work, I am a lifelong swimmer and avid runner.
 
 🔭 **Currently working on:**
 
+• [bio-reasoning](https://github.com/jmsung/bio-reasoning): Agentic system predicting single-cell perturbation outcomes for the BioReasoning Challenge (MLGenX @ ICLR 2026)  
 • [Einstein Arena](https://github.com/jmsung/einstein): JSAgent, ranked #1 overall on open math and science optimization problems  
 • [HFC](https://hfc.scale.com/): Evaluating generative AI reasoning models and prompt engineering at Scale AI  
 • AI agent driven drug discovery for cardiovascular disease and cancer  
