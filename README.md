@@ -8,6 +8,8 @@ My work focuses on Bio AI for drug discovery, protein design, genomics, precisio
 
 Outside of work, I am a lifelong swimmer and avid runner.
 
+✍️ **I write [LatentCell — Bio × AI Weekly](https://latentcell.ai)** — a weekly blog on biology, AI, and where they meet: TL;DR for the curious, depth for the specialist.
+
 🔭 **Currently working on:**
 
 • [bio-reasoning](https://github.com/jmsung/bio-reasoning): Agentic system predicting single-cell perturbation outcomes for the BioReasoning Challenge (MLGenX @ ICLR 2026)  
@@ -36,5 +38,5 @@ Outside of work, I am a lifelong swimmer and avid runner.
 
 • [Email](mailto:jongmin.sung@gmail.com)  
 • [LinkedIn](https://www.linkedin.com/in/jongmin-sung/)  
-• [Blog](https://jmsung.github.io/)  
+• [Blog — LatentCell (Bio × AI Weekly)](https://latentcell.ai/)  
 • [Google Scholar](https://scholar.google.com/citations?user=Z1MbOtoAAAAJ&hl=en)
